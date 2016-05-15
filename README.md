@@ -7,3 +7,5 @@ Thread on Arduino-Forum: http://forum.arduino.cc/index.php?topic=131086.0
 
 Ongoing thread @ Community-Particle: 
 https://community.particle.io/t/library-for-ads-1231-bee-hive-weigh-scale/21719
+
+alternative Library for Arduino: https://github.com/rfjakob/barwin-arduino/tree/master/lib/ads1231
